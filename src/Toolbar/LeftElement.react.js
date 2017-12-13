@@ -29,7 +29,7 @@ const contextTypes = {
     uiTheme: PropTypes.object.isRequired,
 };
 
-const SEARCH_FORWARD_ICON = 'arrow-forward';
+const SEARCH_FORWARD_ICON = 'chevron-left';
 
 function shouldUpdateStyles(props, nextProps) {
     if (props.style !== nextProps.styles) {

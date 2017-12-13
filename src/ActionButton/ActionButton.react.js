@@ -73,7 +73,7 @@ const defaultProps = {
     onPress: null,
     onLongPress: null,
     transition: null,
-    icon: 'add',
+    icon: 'plus',
     style: {},
     hidden: false,
     rippleColor: '#AAF',
