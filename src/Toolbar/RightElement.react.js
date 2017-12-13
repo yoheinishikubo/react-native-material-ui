@@ -149,7 +149,7 @@ class RightElement extends PureComponent {
                 if (searchValue.length > 0) {
                     result.push(<IconToggle
                         key="searchClear"
-                        name="clear"
+                        name="close"
                         color={flattenRightElement.color}
                         size={size}
                         style={flattenRightElement}
